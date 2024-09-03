@@ -5,10 +5,10 @@ import {Link} from "react-scroll"
 function Home() {
   return (
     <>
-      <main id="/"  className="  mt-[60px] ">
+      <main id="/"  className="  mt-[60px] bg-[#02060c] text-white ">
         <section className="p-3  xl:flex lg:flex 2xl:flex items-center justify-between md:p-10 lg:p-16 xl:p-20  2xl:p-32">
           <div className="pb-10">
-            <img src={img1} alt="" className="mt-5 rounded-full w-[400px] shadow-lg shadow-gray-500" />
+            <img src={img1} alt="" className="mt-5 rounded-full w-[400px] shadow-lg shadow-[#00abf0]" />
           </div>
           <div className="lg:w-1/2 xl:w-1/2 2xl:w-1/2">
             <h1 className="text-xl font-semibold">Hi I'm Prajwal Kamdi</h1>

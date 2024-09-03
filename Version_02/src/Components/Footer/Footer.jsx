@@ -55,6 +55,7 @@ export default function Footer() {
             <FaXTwitter size={20} />
           </Link>
         </div>
+        <p>Made with </p>
       </footer>
     </>
   );
